@@ -180,6 +180,9 @@ public class GameBoard extends RelativeLayout {
     }
 
     public void step(int index, int x1, int y1, int x2, int y2) {
+        if(x1 == x2 && y1 == y2){
+            return;
+        }
         unmarkBlock(index, x1, y1);
         markBlock(index, x2, y2);
         record.push(new Record(index, x1, y1, x2, y2));
