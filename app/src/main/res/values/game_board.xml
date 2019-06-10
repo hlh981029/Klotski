@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="game_board_list">
+        <item>横刀立马 1</item>
+        <item>@array/game_board_0</item>
+        <item>横刀立马 1</item>
+        <item>@array/game_board_1</item>
+        <item>横刀立马 2</item>
+        <item>@array/game_board_2</item>
+        <item>起头并前</item>
+        <item>@array/game_board_3</item>
+        <item>兵分三路</item>
+        <item>@array/game_board_4</item>
+        <item>屯兵东路</item>
+        <item>@array/game_board_5</item>
+        <item>左右布兵</item>
+        <item>@array/game_board_6</item>
+        <item>兵临曹营</item>
+        <item>@array/game_board_7</item>
+        <item>壁垒森严</item>
+        <item>@array/game_board_8</item>
+        <item>横眉立目</item>
+        <item>@array/game_board_9</item>
+    </array>
+    <array name="game_board_image">
+        <item>@drawable/image_0</item>
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_6</item>
+    </array>
+    <integer-array name="game_board_0">
+        <item>2</item><item>2</item><item>1</item><item>2</item>
+        <item>2</item><item>1</item><item>1</item><item>0</item>
+        <item>1</item><item>2</item><item>0</item><item>0</item>
+        <item>1</item><item>2</item><item>0</item><item>2</item>
+        <item>1</item><item>2</item><item>3</item><item>0</item>
+        <item>1</item><item>2</item><item>3</item><item>2</item>
+        <item>1</item><item>1</item><item>1</item><item>1</item>
+        <item>1</item><item>1</item><item>2</item><item>1</item>
+        <item>1</item><item>1</item><item>0</item><item>4</item>
+        <item>1</item><item>1</item><item>3</item><item>4</item>
+    </integer-array>
+    <integer-array name="game_board_1">
+        <item>2</item><item>2</item><item>1</item><item>0</item>
+        <item>2</item><item>1</item><item>1</item><item>2</item>
+        <item>1</item><item>2</item><item>0</item><item>0</item>
+        <item>1</item><item>2</item><item>0</item><item>2</item>
+        <item>1</item><item>2</item><item>3</item><item>0</item>
+        <item>1</item><item>2</item><item>3</item><item>2</item>
+        <item>1</item><item>1</item><item>1</item><item>3</item>
+        <item>1</item><item>1</item><item>2</item><item>3</item>
+        <item>1</item><item>1</item><item>0</item><item>4</item>
+        <item>1</item><item>1</item><item>3</item><item>4</item>
+    </integer-array>
+    <integer-array name="game_board_2">
+        <item>2</item><item>2</item><item>1</item><item>0</item>
+        <item>2</item><item>1</item><item>1</item><item>2</item>
+        <item>1</item><item>2</item><item>0</item><item>0</item>
+        <item>1</item><item>2</item><item>0</item><item>3</item>
+        <item>1</item><item>2</item><item>3</item><item>0</item>
+        <item>1</item><item>2</item><item>3</item><item>3</item>
+        <item>1</item><item>1</item><item>1</item><item>3</item>
+        <item>1</item><item>1</item><item>2</item><item>3</item>
+        <item>1</item><item>1</item><item>0</item><item>2</item>
+        <item>1</item><item>1</item><item>3</item><item>2</item>
+    </integer-array>
+    <integer-array name="game_board_3">
+        <item>2</item><item>2</item><item>1</item><item>0</item>
+        <item>2</item><item>1</item><item>1</item><item>3</item>
+        <item>1</item><item>2</item><item>0</item><item>0</item>
+        <item>1</item><item>2</item><item>0</item><item>3</item>
+        <item>1</item><item>2</item><item>3</item><item>0</item>
+        <item>1</item><item>2</item><item>3</item><item>3</item>
+        <item>1</item><item>1</item><item>1</item><item>2</item>
+        <item>1</item><item>1</item><item>2</item><item>2</item>
+        <item>1</item><item>1</item><item>0</item><item>2</item>
+        <item>1</item><item>1</item><item>3</item><item>2</item>
+    </integer-array>
+    <integer-array name="game_board_4">
+        <item>2</item><item>2</item><item>1</item><item>0</item>
+        <item>2</item><item>1</item><item>1</item><item>2</item>
+        <item>1</item><item>2</item><item>0</item><item>1</item>
+        <item>1</item><item>2</item><item>0</item><item>3</item>
+        <item>1</item><item>2</item><item>3</item><item>1</item>
+        <item>1</item><item>2</item><item>3</item><item>3</item>
+        <item>1</item><item>1</item><item>1</item><item>3</item>
+        <item>1</item><item>1</item><item>2</item><item>3</item>
+        <item>1</item><item>1</item><item>0</item><item>0</item>
+        <item>1</item><item>1</item><item>3</item><item>0</item>
+    </integer-array>
+    <integer-array name="game_board_5">
+        <item>2</item><item>2</item><item>0</item><item>0</item>
+        <item>2</item><item>1</item><item>0</item><item>2</item>
+        <item>1</item><item>2</item><item>2</item><item>0</item>
+        <item>1</item><item>2</item><item>0</item><item>3</item>
+        <item>1</item><item>2</item><item>3</item><item>0</item>
+        <item>1</item><item>2</item><item>1</item><item>3</item>
+        <item>1</item><item>1</item><item>2</item><item>2</item>
+        <item>1</item><item>1</item><item>2</item><item>3</item>
+        <item>1</item><item>1</item><item>3</item><item>2</item>
+        <item>1</item><item>1</item><item>3</item><item>3</item>
+    </integer-array>
+    <integer-array name="game_board_6">
+        <item>2</item><item>2</item><item>1</item><item>0</item>
+        <item>2</item><item>1</item><item>1</item><item>4</item>
+        <item>1</item><item>2</item><item>0</item><item>0</item>
+        <item>1</item><item>2</item><item>1</item><item>2</item>
+        <item>1</item><item>2</item><item>3</item><item>0</item>
+        <item>1</item><item>2</item><item>2</item><item>2</item>
+        <item>1</item><item>1</item><item>0</item><item>3</item>
+        <item>1</item><item>1</item><item>0</item><item>4</item>
+        <item>1</item><item>1</item><item>3</item><item>3</item>
+        <item>1</item><item>1</item><item>3</item><item>4</item>
+    </integer-array>
+    <integer-array name="game_board_7">
+        <item>2</item><item>2</item><item>1</item><item>0</item>
+        <item>2</item><item>1</item><item>1</item><item>2</item>
+        <item>1</item><item>2</item><item>0</item><item>2</item>
+        <item>1</item><item>2</item><item>1</item><item>3</item>
+        <item>1</item><item>2</item><item>3</item><item>2</item>
+        <item>1</item><item>2</item><item>2</item><item>3</item>
+        <item>1</item><item>1</item><item>0</item><item>0</item>
+        <item>1</item><item>1</item><item>0</item><item>1</item>
+        <item>1</item><item>1</item><item>3</item><item>0</item>
+        <item>1</item><item>1</item><item>3</item><item>1</item>
+    </integer-array>
+    <integer-array name="game_board_8">
+        <item>2</item><item>2</item><item>1</item><item>1</item>
+        <item>2</item><item>1</item><item>1</item><item>0</item>
+        <item>1</item><item>2</item><item>0</item><item>3</item>
+        <item>1</item><item>2</item><item>2</item><item>3</item>
+        <item>1</item><item>2</item><item>1</item><item>3</item>
+        <item>1</item><item>2</item><item>3</item><item>3</item>
+        <item>1</item><item>1</item><item>0</item><item>1</item>
+        <item>1</item><item>1</item><item>0</item><item>2</item>
+        <item>1</item><item>1</item><item>3</item><item>1</item>
+        <item>1</item><item>1</item><item>3</item><item>2</item>
+    </integer-array>
+    <integer-array name="game_board_9">
+        <item>2</item><item>2</item><item>1</item><item>0</item>
+        <item>2</item><item>1</item><item>2</item><item>2</item>
+        <item>1</item><item>2</item><item>1</item><item>3</item>
+        <item>1</item><item>2</item><item>3</item><item>0</item>
+        <item>1</item><item>2</item><item>0</item><item>3</item>
+        <item>1</item><item>2</item><item>0</item><item>0</item>
+        <item>1</item><item>1</item><item>0</item><item>2</item>
+        <item>1</item><item>1</item><item>1</item><item>2</item>
+        <item>1</item><item>1</item><item>2</item><item>3</item>
+        <item>1</item><item>1</item><item>3</item><item>3</item>
+    </integer-array>
+</resources>
